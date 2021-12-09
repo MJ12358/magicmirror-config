@@ -1,18 +1,18 @@
 {
-	anytime: [
+	"anytime": [
 		"Hey there sexy!"
 	],
-	morning: [
+	"morning": [
 		"Good morning, handsome!",
 		"Enjoy your day!",
 		"How was your sleep?"
 	],
-	afternoon: [
+	"afternoon": [
 		"Hello, beauty!",
 		"You look sexy!",
 		"Looking good today!"
 	],
-	evening: [
+	"evening": [
 		"Wow, you look hot!",
 		"You look nice!",
 		"Hi, sexy!"
@@ -23,23 +23,23 @@
 	"....-10-31": [
 		"Happy Halloween!"
 	],
-	day_sunny: [
+	"day_sunny": [
 		"Today is a sunny day",
 		"It's a beautiful day"
 	],
-	snow: [
+	"snow": [
 		"Snowball battle!"
 	],
-	showers: [
+	"showers": [
 		"Don't forget your umbrella"
 	],
-	rain: [
+	"rain": [
 		"Don't forget your umbrella"
 	],
-	thunderstorm: [
+	"thunderstorm": [
 		"Don't forget your umbrella"
 	],
-	snow: [
+	"snow": [
 		"Don't forget your booties 'cause it's cooooold out there today"
 	]
 }
