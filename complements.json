@@ -1,28 +1,22 @@
 {
 	"anytime": [
-		"Hey there sexy!"
+		"Do what you can, with what you have, where you are.",
+		"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
+		"It's never too late to be what you might've been.",
+		"The best preparation for tomorrow is doing your best today."
 	],
 	"morning": [
-		"Good morning, handsome!",
+		"Good morning!",
 		"Enjoy your day!",
-		"How was your sleep?",
-		"Good morning, sunshine!",
-		"Who needs coffee when you have your smile?",
-		"Go get 'em, Tiger!"
+		"How was your sleep?"
 	],
 	"afternoon": [
-		"Hello, beauty!",
-		"You look sexy!",
 		"Looking good today!",
 		"Hitting your stride!",
-		"You are making a difference!",
-		"You're more fun than bubble wrap!"
+		"You are making a difference!"
 	],
 	"evening": [
-		"Wow, you look hot!",
 		"You look nice!",
-		"Hi, sexy!",
-		"You made someone smile today, I know it.",
 		"You are making a difference.",
 		"The day was better for your efforts."
 	],
@@ -39,20 +33,36 @@
 		"Happy Halloween!"
 	],
 	"day_sunny": [
-		"Today is a sunny day",
-		"It's a beautiful day"
+		"Today is a sunny day!",
+		"It's a beautiful day!"
+	],
+	"showers": [
+		"Don't forget your umbrella!"
+	],
+	"rain": [
+		"Don't forget your umbrella!"
+	],
+	"thunderstorm": [
+		"Don't forget your umbrella!"
 	],
 	"snow": [
 		"Snowball battle!",
-		"Don't forget your booties 'cause it's cooooold out there today"
+		"Don't forget your booties 'cause it's cooooold out there today!"
 	],
-	"showers": [
-		"Don't forget your umbrella"
+	"night_clear": [
+		"It's a clear night!"
 	],
-	"rain": [
-		"Don't forget your umbrella"
+	"night_showers": [
+		"Don't forget your umbrella!"
 	],
-	"thunderstorm": [
-		"Don't forget your umbrella"
+	"night_rain": [
+		"Don't forget your umbrella!"
+	],
+	"night_thunderstorm": [
+		"Don't forget your umbrella!",
+		"It's a stormy night!"
+	],
+	"night_snow": [
+		"It's a snowy night!"
 	]
 }
