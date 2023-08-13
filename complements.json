@@ -21,7 +21,7 @@
 		"The day was better for your efforts."
 	],
 	"....-01-01": [
-		"Happy new year!"
+		"Happy Gregorian new year!"
 	],
 	"....-02-02": [
 		"Happy groundhog day!"
@@ -31,6 +31,9 @@
 	],
 	"....-03-21": [
 		"Happy Equinox!" 	
+	],
+	"....-03-25": [
+		"Happy Julian new year!"
 	],
 	"....-06-21": [
 		"Happy Solstice!"	
