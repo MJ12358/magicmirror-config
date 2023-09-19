@@ -16,33 +16,70 @@
 		"You are making a difference!"
 	],
 	"evening": [
-		"You look nice!",
-		"You are making a difference.",
 		"The day was better for your efforts."
 	],
 	"....-01-01": [
-		"Happy Gregorian new year!"
+		"Happy Gregorian New Year!"
+	],
+	"....-01-16": [
+		"Happy Martin Luther King Jr. Day!"
+	],
+	"....-01-22": [
+		"National Hot Sauce Day!"
 	],
 	"....-02-02": [
-		"Happy groundhog day!"
+		"Happy Groundhog Day!"
+	],
+	"....-02-24": [
+		"National Tortilla Chip Day!"
 	],
 	"....-03-14": [
-		"Happy pi day!"
+		"Happy Pi Day!"
 	],
 	"....-03-21": [
 		"Happy Equinox!" 	
 	],
+	"....-03-23": [
+		"National Puppy Day!"
+	],
 	"....-03-25": [
-		"Happy Julian new year!"
+		"Happy Julian New Year!"
+	],
+	"....-04-29": [
+		"National Astronomy Day!"
+	],
+	"....-05-29": [
+		"Happy Memorial Day!"
+	],
+	"....-06-19": [
+		"Happy Juneteenth!"
 	],
 	"....-06-21": [
 		"Happy Solstice!"	
+	],
+	"....-06-30": [
+		"National Meteor Watch Day!"
+	],
+	"....-07-04": [
+		"Happy Independence Day!"
+	],
+	"....-08-10": [
+		"National Lazy Day!"
+	],
+	"....-08-26": [
+		"National Dogs Day!"
+	],
+	"....-09-04": [
+		"Happy Labor Day!"
 	],
 	"....-09-23": [
 		"Happy Equinox!"	
 	],
 	"....-10-31": [
 		"Happy Halloween!"
+	],
+	"....-11-15": [
+		"National Clean Out Your Fridge Day!"
 	],
 	"....-12-21": [
 		"Happy Solstice!"	
