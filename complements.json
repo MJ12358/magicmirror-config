@@ -1,10 +1,4 @@
 {
-	"anytime": [
-		"Do what you can, with what you have, where you are.",
-		"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible.",
-		"It's never too late to be what you might've been.",
-		"The best preparation for tomorrow is doing your best today."
-	],
 	"morning": [
 		"Good morning!",
 		"Enjoy your day!",
@@ -88,6 +82,15 @@
 		"Today is a sunny day!",
 		"It's a beautiful day!"
 	],
+	"day_cloudy": [
+		"It's cloudy out there!"
+	],
+	"cloudy": [
+		"It's cloudy out there!"
+	],
+	"cloudy_windy": [
+		"It's windy out there!"
+	],
 	"showers": [
 		"Don't forget your umbrella!"
 	],
@@ -95,26 +98,35 @@
 		"Don't forget your umbrella!"
 	],
 	"thunderstorm": [
+		"It's stormin' out there!",
 		"Don't forget your umbrella!"
 	],
 	"snow": [
 		"Snowball battle!",
 		"Don't forget your booties 'cause it's cooooold out there today!"
 	],
+	"fog": [
+		"It's foggy out there!"
+	],
 	"night_clear": [
 		"It's a clear night!"
 	],
+	"night_cloudy": [
+		"It's a cloudy night!"
+	],
 	"night_showers": [
-		"Don't forget your umbrella!"
+		"It's a rainy night!"
 	],
 	"night_rain": [
-		"Don't forget your umbrella!"
+		"It's a rainy night!"
 	],
 	"night_thunderstorm": [
-		"Don't forget your umbrella!",
 		"It's a stormy night!"
 	],
 	"night_snow": [
 		"It's a snowy night!"
+	],
+	"night_alt_cloudy_windy": [
+		"It's a windy night!"
 	]
 }
