@@ -1,16 +1,12 @@
 {
 	"morning": [
-		"Good morning!",
-		"Enjoy your day!",
-		"How was your sleep?"
+		"Good morning!"
 	],
 	"afternoon": [
-		"Looking good today!",
-		"Hitting your stride!",
-		"You are making a difference!"
+		"Good afternooen!"
 	],
 	"evening": [
-		"The day was better for your efforts."
+		"Good evening!"
 	],
 	"....-01-01": [
 		"Happy Gregorian New Year!"
